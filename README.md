@@ -13,4 +13,4 @@
 
 ## Preview
 
-![colorgame](https://giphy.com/gifs/7Tce1msPQX9JAkCfIb/html5)
+![rgb](https://user-images.githubusercontent.com/38735598/50497459-9c41ca80-09ec-11e9-9581-d8067204c2f3.gif)
