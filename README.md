@@ -13,4 +13,4 @@
 
 ## Preview
 
-![rgb](https://user-images.githubusercontent.com/38735598/50497459-9c41ca80-09ec-11e9-9581-d8067204c2f3.gif)
+![video2](https://user-images.githubusercontent.com/38735598/50497499-f6db2680-09ec-11e9-9a40-c74b8770be12.gif)
